@@ -1,0 +1,13 @@
+link1.txt
+link2.txt
+result.txt
+test.tgz
+test1
+total 16
+drwxr-xr-x  3 digital_stda24 digital_stda24   87 Sep 13 14:42 .
+drwx------ 11 digital_stda24 digital_stda24 4096 Sep 13 14:07 ..
+-rw-r--r--  1 digital_stda24 digital_stda24   51 Sep 13 14:07 link1.txt
+lrwxrwxrwx  1 digital_stda24 digital_stda24   13 Sep 13 14:06 link2.txt -> ./orignal.txt
+-rw-r--r--  1 digital_stda24 digital_stda24   46 Sep 13 14:42 result.txt
+-rw-r--r--  1 digital_stda24 digital_stda24  189 Sep 13 14:21 test.tgz
+drwxr-xr-x  3 digital_stda24 digital_stda24   19 Sep 13 14:19 test1

@@ -1,0 +1,26 @@
+xmelab(64): 23.03-s013: (c) Copyright 1995-2024 Cadence Design Systems, Inc.
+TOOL:	xmelab(64)	23.03-s013: Started on Sep 27, 2024 at 16:59:12 KST
+xmelab
+    -MES
+    -access rwc
+    tb_SN72LS11
+
+	Elaborating the design hierarchy:
+		Caching library 'SN74LS11_lib' ....... Done
+	Building instance overlay tables: .................... Done
+	Generating native compiled code:
+		SN74LS11_lib.tb_SN72LS11:module <0x7c2d4aed>
+			streams:  10, words:  8177
+	Building instance specific data structures.
+	Loading native compiled code:     .................... Done
+	Design hierarchy summary:
+		                 Instances  Unique
+		Modules:                 5       3
+		Primitives:              3       1
+		Registers:               9       9
+		Scalar wires:            9       -
+		Initial blocks:          1       1
+		Pseudo assignments:      9       -
+		Simulation timescale:  1ps
+	Writing initial simulation snapshot: SN74LS11_lib.tb_SN72LS11:module
+TOOL:	xmelab(64)	23.03-s013: Exiting on Sep 27, 2024 at 16:59:12 KST  (total: 00:00:00)
